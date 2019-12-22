@@ -1,0 +1,6 @@
+	1.txt - file
+	2.txt - file
+	3.txt - file
+folder1	 - folder
+folder2	 - folder
+folder3	 - folder
